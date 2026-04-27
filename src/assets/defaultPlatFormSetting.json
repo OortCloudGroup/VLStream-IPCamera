@@ -1,0 +1,42 @@
+{
+  "logo": "http://192.168.88.119:31610/oort/oortcloud-policefront/news_manange/img/logo_color.4d7b778c.png",
+  "logoWhite": "http://192.168.88.119:31610/oort/oortcloud-policefront/news_manange/img/logo_color.4d7b778c.png",
+  "login_bottom": "奥尔特云（深圳）智慧科技有限公司",
+  "loginPageFlag1": "开放包容，助力发展",
+  "loginPageFlag2": "统一的标准，统一的管理体系，实现所有系统用户、认证的管理",
+  "common": {
+    "login_logo_text": "信息资源服务平台",
+    "login_title": "管理员管控",
+    "rightInfoItems": [
+    ]
+  },
+  "platform": {
+    "console_manage": {
+      "name": "控制台",
+      "login_logo_text": "信息资源服务平台",
+      "login_title": "控制台",
+      "loginPageFlag1": "开放包容，助力发展",
+      "loginPageFlag2": "统一的标准，统一的管理体系，实现所有系统用户、认证的管理",
+      "pageArr": [
+        {
+          "name": "首页",
+          "app": "jingwubao_home",
+          "isShow": true
+        },
+        {
+          "name": "控制台",
+          "app": "pcAppMarket",
+          "isShow": true
+        },
+        {
+          "name": "关于",
+          "app": "home",
+          "isShow": true
+        }
+      ],
+      "console_manage_admin_appList": [
+
+      ]
+    }
+  }
+}
